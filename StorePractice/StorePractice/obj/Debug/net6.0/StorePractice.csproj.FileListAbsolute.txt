@@ -1,0 +1,15 @@
+C:\Users\riohi\source\repos\StorePractice\StorePractice\bin\Debug\net6.0\StorePractice.exe
+C:\Users\riohi\source\repos\StorePractice\StorePractice\bin\Debug\net6.0\StorePractice.deps.json
+C:\Users\riohi\source\repos\StorePractice\StorePractice\bin\Debug\net6.0\StorePractice.runtimeconfig.json
+C:\Users\riohi\source\repos\StorePractice\StorePractice\bin\Debug\net6.0\StorePractice.dll
+C:\Users\riohi\source\repos\StorePractice\StorePractice\bin\Debug\net6.0\ref\StorePractice.dll
+C:\Users\riohi\source\repos\StorePractice\StorePractice\bin\Debug\net6.0\StorePractice.pdb
+C:\Users\riohi\source\repos\StorePractice\StorePractice\obj\Debug\net6.0\StorePractice.csproj.AssemblyReference.cache
+C:\Users\riohi\source\repos\StorePractice\StorePractice\obj\Debug\net6.0\StorePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riohi\source\repos\StorePractice\StorePractice\obj\Debug\net6.0\StorePractice.AssemblyInfoInputs.cache
+C:\Users\riohi\source\repos\StorePractice\StorePractice\obj\Debug\net6.0\StorePractice.AssemblyInfo.cs
+C:\Users\riohi\source\repos\StorePractice\StorePractice\obj\Debug\net6.0\StorePractice.csproj.CoreCompileInputs.cache
+C:\Users\riohi\source\repos\StorePractice\StorePractice\obj\Debug\net6.0\StorePractice.dll
+C:\Users\riohi\source\repos\StorePractice\StorePractice\obj\Debug\net6.0\ref\StorePractice.dll
+C:\Users\riohi\source\repos\StorePractice\StorePractice\obj\Debug\net6.0\StorePractice.pdb
+C:\Users\riohi\source\repos\StorePractice\StorePractice\obj\Debug\net6.0\StorePractice.genruntimeconfig.cache
